@@ -1,0 +1,7 @@
+[package]
+name = "simplecolor-examples"
+version = "0.1.0"
+authors = ["Alex Smith <donnytyler.com>"]
+
+[dependencies]
+simplecolor = { path = "../../simplecolor" }
